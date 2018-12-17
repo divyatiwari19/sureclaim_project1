@@ -1,4 +1,5 @@
-\c sureclaim_db2
+CREATE DATABASE sureclaim_db1;
+\c sureclaim_db1
 INSERT INTO SURECLAIM_t(something) VALUES(1);
 
 SSS%
